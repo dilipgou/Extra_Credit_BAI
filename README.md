@@ -31,6 +31,29 @@ The primary goal is to demonstrate:
 
 ---
 
+---
+
+## Data Download Instructions (InsideAirbnb)
+
+**Raw data is NOT included in this repository.** To reproduce the analysis, download data directly from the InsideAirbnb “Get the Data” page. For each city, you must first click **“Show archived data for this city”** on the site to reveal older snapshots, then choose the correct dates. [file:52]
+
+For each city below, download **`listings.csv.gz`** and **`calendar.csv.gz`** for the specified archived dates:
+
+- **Austin**
+- 2025‑03‑06  
+- 2024‑12‑14
+- **Chicago**
+- 2025‑03‑11  
+- 2024‑12‑18
+- **Santa Cruz**
+- 2025‑03‑28  
+- 2025‑12‑31
+- **Washington, DC**
+- 2025‑03‑13  
+- 2025‑12‑18
+
+---
+
 ## 📊 Data Sources
 
 Data comes from **Inside Airbnb** ([https://insideairbnb.com/get-the-data/](https://insideairbnb.com/get-the-data/)).
