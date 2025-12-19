@@ -115,12 +115,13 @@ This split prevents temporal leakage and reflects realistic forecasting conditio
 
 <img width="870" height="512" alt="Screenshot 2025-12-18 171439" src="https://github.com/user-attachments/assets/169993ec-d0ce-4bce-90c0-9f62518a1ff3" />
 
+### XGBoost – Price Model
 **evaluation_loss_vs_iterations** demonstrates steady improvement across boosting rounds, confirming effective optimization.
 
 <img width="1065" height="532" alt="Screenshot 2025-12-18 171548" src="https://github.com/user-attachments/assets/8273f308-0270-4c9a-84ce-2809a828b1ca" />
 
-XGBoost – Price Model
-evaluation_accuracy_vs_iterations fluctuates slightly across boosting rounds while remaining relatively stable overall, indicating modest but consistent predictive performance without clear overfitting.
+### XGBoost – Price Model
+**evaluation_accuracy_vs_iterations** fluctuates slightly across boosting rounds while remaining relatively stable overall, indicating modest but consistent predictive performance without clear overfitting.
 
 <img width="1063" height="510" alt="Screenshot 2025-12-18 171527" src="https://github.com/user-attachments/assets/6cb9fc9e-3136-48f4-9b2a-b1e2004679a9" />
 
